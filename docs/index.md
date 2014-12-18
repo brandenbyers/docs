@@ -2,7 +2,7 @@
 
 [Netlify](http://www.netlify.com) builds, deploys and hosts your front end.
 
-## Quckstart
+## Quickstart
 
 Deploying a new site with Netlify is so simple it fits in a tweet:
 
